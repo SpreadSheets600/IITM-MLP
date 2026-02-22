@@ -36,6 +36,7 @@ Solutions to assignments are included for each corresponding week.
 
 - [WEEK 1.1](./GA/Week-1.1.ipynb)
 - [WEEK 1.2](./GA/Week-1.2.ipynb)
+- [WEEK 2](./GA/Week-2.ipynb)
 
 ### Notes
 
@@ -46,6 +47,7 @@ Solutions to assignments are included for each corresponding week.
 ### Dataset
 
 - [Week-1 Dataset](./Resources/Data/Week-1-GA-Dataset.csv)
+- [Week-2 Dataset](./Resources/Data/Week-2-GA-Dataset.csv)
 
 - [Pokemon Dataset](./Resources/Data/Pokemon.csv)
 - [Student Performance Dataset](./Resources/Data/Student-Performance.csv)
