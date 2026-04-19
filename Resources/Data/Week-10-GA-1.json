@@ -1,0 +1,502 @@
+{
+    "Movie 1": [
+        "Science Fiction",
+        "Thriller",
+        "Drama",
+        "Romance",
+        "Animation"
+    ],
+    "Movie 2": [
+        "Comedy",
+        "Horror",
+        "Animation"
+    ],
+    "Movie 3": [
+        "Fantasy",
+        "Science Fiction",
+        "Crime",
+        "Western"
+    ],
+    "Movie 4": [
+        "Animation",
+        "Thriller",
+        "Comedy"
+    ],
+    "Movie 5": [
+        "Crime",
+        "Horror",
+        "Drama",
+        "Thriller",
+        "Western"
+    ],
+    "Movie 6": [
+        "Animation",
+        "Science Fiction",
+        "Documentary",
+        "Action",
+        "Drama"
+    ],
+    "Movie 7": [
+        "Comedy",
+        "Action",
+        "Mystery",
+        "Drama"
+    ],
+    "Movie 8": [
+        "Horror",
+        "Science Fiction",
+        "Mystery"
+    ],
+    "Movie 9": [
+        "Mystery",
+        "Documentary"
+    ],
+    "Movie 10": [
+        "Drama",
+        "Mystery"
+    ],
+    "Movie 11": [
+        "Thriller"
+    ],
+    "Movie 12": [
+        "Romance",
+        "Comedy",
+        "Fantasy",
+        "Documentary",
+        "Adventure"
+    ],
+    "Movie 13": [
+        "Romance",
+        "Musical"
+    ],
+    "Movie 14": [
+        "Mystery",
+        "Fantasy",
+        "Animation",
+        "Musical"
+    ],
+    "Movie 15": [
+        "Action",
+        "Romance",
+        "Horror",
+        "Thriller"
+    ],
+    "Movie 16": [
+        "Thriller"
+    ],
+    "Movie 17": [
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Movie 18": [
+        "Action",
+        "Fantasy"
+    ],
+    "Movie 19": [
+        "Musical"
+    ],
+    "Movie 20": [
+        "Action",
+        "Romance",
+        "Thriller",
+        "Comedy",
+        "Horror"
+    ],
+    "Movie 21": [
+        "Musical",
+        "Documentary",
+        "Action"
+    ],
+    "Movie 22": [
+        "Crime",
+        "Comedy"
+    ],
+    "Movie 23": [
+        "Animation"
+    ],
+    "Movie 24": [
+        "Comedy",
+        "Action"
+    ],
+    "Movie 25": [
+        "Western",
+        "Crime",
+        "Comedy"
+    ],
+    "Movie 26": [
+        "Drama",
+        "Fantasy",
+        "Western",
+        "Science Fiction",
+        "Horror"
+    ],
+    "Movie 27": [
+        "Musical",
+        "Horror",
+        "Drama"
+    ],
+    "Movie 28": [
+        "Mystery",
+        "Western",
+        "Horror",
+        "Fantasy"
+    ],
+    "Movie 29": [
+        "Crime"
+    ],
+    "Movie 30": [
+        "Documentary"
+    ],
+    "Movie 31": [
+        "Horror",
+        "Science Fiction",
+        "Action",
+        "Documentary"
+    ],
+    "Movie 32": [
+        "Adventure",
+        "Crime"
+    ],
+    "Movie 33": [
+        "Comedy",
+        "Musical"
+    ],
+    "Movie 34": [
+        "Horror",
+        "Drama"
+    ],
+    "Movie 35": [
+        "Fantasy",
+        "Thriller",
+        "Drama",
+        "Romance"
+    ],
+    "Movie 36": [
+        "Documentary",
+        "Thriller",
+        "Horror",
+        "Drama"
+    ],
+    "Movie 37": [
+        "Western"
+    ],
+    "Movie 38": [
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Horror",
+        "Thriller"
+    ],
+    "Movie 39": [
+        "Science Fiction",
+        "Documentary"
+    ],
+    "Movie 40": [
+        "Horror"
+    ],
+    "Movie 41": [
+        "Action",
+        "Horror"
+    ],
+    "Movie 42": [
+        "Horror",
+        "Crime",
+        "Drama",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Movie 43": [
+        "Adventure",
+        "Crime"
+    ],
+    "Movie 44": [
+        "Musical",
+        "Mystery",
+        "Western",
+        "Adventure",
+        "Fantasy"
+    ],
+    "Movie 45": [
+        "Drama",
+        "Romance",
+        "Crime",
+        "Science Fiction",
+        "Western"
+    ],
+    "Movie 46": [
+        "Thriller",
+        "Horror",
+        "Musical",
+        "Western"
+    ],
+    "Movie 47": [
+        "Western",
+        "Crime",
+        "Horror",
+        "Fantasy",
+        "Animation"
+    ],
+    "Movie 48": [
+        "Adventure",
+        "Mystery",
+        "Musical",
+        "Horror"
+    ],
+    "Movie 49": [
+        "Action"
+    ],
+    "Movie 50": [
+        "Romance",
+        "Science Fiction",
+        "Horror",
+        "Animation"
+    ],
+    "Movie 51": [
+        "Documentary",
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Adventure"
+    ],
+    "Movie 52": [
+        "Comedy",
+        "Musical"
+    ],
+    "Movie 53": [
+        "Fantasy",
+        "Drama",
+        "Thriller",
+        "Crime",
+        "Horror"
+    ],
+    "Movie 54": [
+        "Horror",
+        "Adventure",
+        "Drama",
+        "Crime",
+        "Science Fiction"
+    ],
+    "Movie 55": [
+        "Thriller",
+        "Animation",
+        "Mystery",
+        "Fantasy",
+        "Western"
+    ],
+    "Movie 56": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+    ],
+    "Movie 57": [
+        "Action"
+    ],
+    "Movie 58": [
+        "Musical",
+        "Crime"
+    ],
+    "Movie 59": [
+        "Adventure"
+    ],
+    "Movie 60": [
+        "Drama"
+    ],
+    "Movie 61": [
+        "Comedy",
+        "Science Fiction",
+        "Romance"
+    ],
+    "Movie 62": [
+        "Fantasy",
+        "Comedy",
+        "Animation"
+    ],
+    "Movie 63": [
+        "Thriller",
+        "Romance",
+        "Action",
+        "Adventure",
+        "Science Fiction"
+    ],
+    "Movie 64": [
+        "Fantasy"
+    ],
+    "Movie 65": [
+        "Thriller",
+        "Western",
+        "Crime",
+        "Comedy"
+    ],
+    "Movie 66": [
+        "Documentary"
+    ],
+    "Movie 67": [
+        "Fantasy",
+        "Thriller",
+        "Romance"
+    ],
+    "Movie 68": [
+        "Comedy",
+        "Animation",
+        "Drama",
+        "Fantasy"
+    ],
+    "Movie 69": [
+        "Western"
+    ],
+    "Movie 70": [
+        "Animation",
+        "Documentary",
+        "Western",
+        "Romance"
+    ],
+    "Movie 71": [
+        "Fantasy",
+        "Action"
+    ],
+    "Movie 72": [
+        "Thriller",
+        "Horror",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Movie 73": [
+        "Science Fiction",
+        "Musical",
+        "Thriller"
+    ],
+    "Movie 74": [
+        "Crime",
+        "Animation"
+    ],
+    "Movie 75": [
+        "Action"
+    ],
+    "Movie 76": [
+        "Musical",
+        "Animation",
+        "Horror"
+    ],
+    "Movie 77": [
+        "Romance",
+        "Crime",
+        "Mystery"
+    ],
+    "Movie 78": [
+        "Drama",
+        "Thriller",
+        "Adventure",
+        "Action"
+    ],
+    "Movie 79": [
+        "Science Fiction"
+    ],
+    "Movie 80": [
+        "Documentary",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Movie 81": [
+        "Horror"
+    ],
+    "Movie 82": [
+        "Mystery",
+        "Comedy",
+        "Western",
+        "Thriller"
+    ],
+    "Movie 83": [
+        "Fantasy",
+        "Thriller"
+    ],
+    "Movie 84": [
+        "Romance",
+        "Comedy"
+    ],
+    "Movie 85": [
+        "Crime",
+        "Documentary",
+        "Action",
+        "Fantasy"
+    ],
+    "Movie 86": [
+        "Romance",
+        "Musical"
+    ],
+    "Movie 87": [
+        "Science Fiction",
+        "Romance",
+        "Mystery",
+        "Crime",
+        "Thriller"
+    ],
+    "Movie 88": [
+        "Horror",
+        "Fantasy",
+        "Adventure",
+        "Romance",
+        "Documentary"
+    ],
+    "Movie 89": [
+        "Science Fiction",
+        "Thriller",
+        "Action",
+        "Crime",
+        "Animation"
+    ],
+    "Movie 90": [
+        "Drama",
+        "Adventure",
+        "Horror"
+    ],
+    "Movie 91": [
+        "Crime",
+        "Comedy",
+        "Action"
+    ],
+    "Movie 92": [
+        "Thriller",
+        "Adventure",
+        "Romance",
+        "Mystery"
+    ],
+    "Movie 93": [
+        "Fantasy"
+    ],
+    "Movie 94": [
+        "Musical",
+        "Fantasy",
+        "Adventure",
+        "Documentary"
+    ],
+    "Movie 95": [
+        "Comedy"
+    ],
+    "Movie 96": [
+        "Western",
+        "Animation",
+        "Musical"
+    ],
+    "Movie 97": [
+        "Crime",
+        "Drama",
+        "Documentary",
+        "Comedy"
+    ],
+    "Movie 98": [
+        "Documentary",
+        "Drama",
+        "Comedy",
+        "Crime"
+    ],
+    "Movie 99": [
+        "Documentary",
+        "Western",
+        "Adventure"
+    ],
+    "Movie 100": [
+        "Comedy",
+        "Western",
+        "Adventure"
+    ]
+}
